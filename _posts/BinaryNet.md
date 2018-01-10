@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Efficient Deep Learning Part 1: Binary Nets
+excerpt: Reduce Memory and Computation during forward pass
 ---
 
 ## Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or 1
