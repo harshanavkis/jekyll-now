@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Who am I ?
 
-### More Information
+I am a third year undergraduate student currently studying at IIT Dhanbad and majoring in Electronics and Communication Engineering.
 
-A place to include any other types of information that you'd like to include about yourself.
+My main interests include Deep Learning with applications to Computer Vision and Robotics. I am interested in developing low-cost solutions to problems in Computer Vision such as Autopilots. I am also interested in SLAM. I believe that most solutions can be derived from biological examples within nature. If you are working in related areas, don't hesitate to reach out if you think there is an opportunity for collaboration. I would love that!!
+
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[harshanavkis@gmail.com](mailto:harshanavkis@gmail.com)
